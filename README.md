@@ -2,4 +2,4 @@
 This is my first Git Repository
 <br>
 
-Author - JANVI SAHARAN 
+Made By  - JANVI SAHARAN 
